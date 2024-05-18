@@ -1,0 +1,12 @@
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\bin\Debug\net8.0\JobIn.Core.deps.json
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\bin\Debug\net8.0\JobIn.Core.dll
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\bin\Debug\net8.0\JobIn.Core.pdb
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\obj\Debug\net8.0\JobIn.Core.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\obj\Debug\net8.0\JobIn.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\obj\Debug\net8.0\JobIn.Core.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\obj\Debug\net8.0\JobIn.Core.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\obj\Debug\net8.0\JobIn.Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\obj\Debug\net8.0\JobIn.Core.dll
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\obj\Debug\net8.0\refint\JobIn.Core.dll
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\obj\Debug\net8.0\JobIn.Core.pdb
+C:\Users\pc\OneDrive\Masaüstü\JobIn\JobIn\JobIn.Core\obj\Debug\net8.0\ref\JobIn.Core.dll

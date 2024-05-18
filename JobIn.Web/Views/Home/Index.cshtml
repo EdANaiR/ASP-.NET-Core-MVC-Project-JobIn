@@ -1,0 +1,21 @@
+﻿@model List<JobPostingDto>
+
+<h1>Default Area İçerisindesiniz</h1>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@foreach(var jobPosting in Model)
+{
+    <h1>@jobPosting.Title</h1>  <br />
+    
+    <br />
+    <br />
+}
