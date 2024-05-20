@@ -1,6 +1,8 @@
 ﻿@* ﻿@using JobIn.Web.Consts *@
 @model List<JobPostingDto>
-<head></head>
+<head>
+    <title>JobIn-İlan Yönetimi</title>
+</head>
 
 <div class="container-xxl flex-grow-1 container-p-y">
     <h4 class="fw-bold py-3 mb-4">
@@ -37,7 +39,7 @@
                             <td>@jobPosting.Title</td>
                             <td>@jobPosting.Category.Name</td>
                             <td>@jobPosting.JobType</td>
-                            <td>@jobPosting.CreatedDate.ToShortDateString()</td>
+                            <td>@jobPosting.CreatedDate</td>
                             <td>@jobPosting.CreatedBy</td>
 
                             <td>

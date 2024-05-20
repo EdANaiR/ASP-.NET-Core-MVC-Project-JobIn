@@ -15,7 +15,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-    <title>Demo : Login Basic - Pages | Sneat - Bootstrap Dashboard PRO</title>
+    <title>Giriş Yap</title>
 
 
     <meta name="description" content="Most Powerful &amp; Comprehensive Bootstrap 5 Admin Dashboard built for developers!" />
@@ -23,6 +23,7 @@
     <!-- Canonical SEO -->
     <link rel="canonical" href="https://themeselection.com/item/sneat-dashboard-pro-bootstrap/">
 
+    <link rel="icon" href="~/Areas/img/faviconn.png">
 
     <!-- ? PROD Only: Google Tag Manager (Default ThemeSelection: GTM-5DDHKGP, PixInvent: GTM-5J3LMKC) -->
     <script>
@@ -54,7 +55,7 @@
 
     <!-- Vendors CSS -->
     <link rel="stylesheet" href="~/sneat/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
-
+    <link rel="icon" href="~/sneat/assets/img/favicon/faviconn.png">
 
     <!-- Page CSS -->
     <!-- Page -->
@@ -121,12 +122,12 @@
                                     </svg>
 
                                 </span>
-                                <span class="app-brand-text demo text-body fw-bold">Sneat</span>
+                                <span class="app-brand-text demo text-body" style="font-weight:bold">Oturum Aç</span>
                             </a>
                         </div>
                         <!-- /Logo -->
-                        <h4 class="mb-2">Welcome to Sneat! 👋</h4>
-                        <p class="mb-4">Please sign-in to your account and start the adventure</p>
+                        <h4 class="mb-2">Hoş Geldin 👋</h4>
+                        <p class="mb-4">Lütfen hesabınızda oturum açın ve maceraya başlayın</p>
 
                         <form asp-controller="Auth" asp-action="Login" id="formAuthentication" class="mb-3" method="post" >
                            <div asp-validation-summary="All"></div>
@@ -141,7 +142,7 @@
                                 <div class="d-flex justify-content-between">
                                     <label class="form-label" for="password">Parola</label>
                                     <a href="auth-forgot-password-basic.html">
-                                        <small>Forgot Password?</small>
+                                        <small>Parolanı mı unuttun?</small>
                                     </a>
                                 </div>
                                 <div class="input-group input-group-merge">
@@ -159,14 +160,14 @@
                                 </div>
                             </div>
                             <div class="mb-3">
-                                <button class="btn btn-primary d-grid w-100" type="submit">Sign in</button>
+                                <button class="btn btn-primary d-grid w-100" type="submit">Giriş Yap</button>
                             </div>
                         </form>
 
                         <p class="text-center">
-                            <span>New on our platform?</span>
+                            <span>Platformumuzda yeni misiniz?</span>
                             <a href="auth-register-basic.html">
-                                <span>Create an account</span>
+                                <span>Bir hesap oluşturun</span>
                             </a>
                         </p>
                     </div>
@@ -181,9 +182,7 @@
 
 
 
-    <div class="buy-now">
-        <a href="https://themeselection.com/item/sneat-dashboard-pro-bootstrap/" target="_blank" class="btn btn-danger btn-buy-now">Upgrade to Pro</a>
-    </div>
+   
 
 
     <!-- Core JS -->

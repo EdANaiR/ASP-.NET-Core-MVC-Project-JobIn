@@ -1,2055 +1,1651 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\JobIn.Web.bundle.scp.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\JobIn.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\JobIn.Web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\css\\main.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\css\\main.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\css\\normalize.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\css\\normalize.min.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\css\\normalize.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\img\\logo.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\img\\logo.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\index.html",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\index.html",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\index.html"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\js\\custom.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\js\\custom.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\js\\jquery-1.11.0.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\js\\jquery-1.11.0.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\js\\jquery.nav.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\Etrain_Education_DOC\\js\\jquery.nav.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\Etrain_Education_DOC\\js\\jquery.nav.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\animate.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\animate.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\aos.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\aos.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\aos.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\flaticon.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\flaticon.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\flaticon.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\magnific-popup.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\nice-select.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\owl.carousel.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\slick.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\slick.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\slick.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\style.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\style.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\style.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\style.map",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\style.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\swiper.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\swiper.min.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\swiper.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\themify-icons.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\JobIn-Post\\css\\themify-icons.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\Flaticon.eot",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\Flaticon.eot",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\Flaticon.eot"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\Flaticon.ttf",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\Flaticon.ttf"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\Flaticon.woff",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\Flaticon.woff2",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\Flaticon.woff2",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\Flaticon.woff2"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\themify.eot",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\themify.eot"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\themify.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\themify.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\themify.ttf",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\themify.ttf"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\themify.woff",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\JobIn-Post\\fonts\\themify.woff"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\about_overlay.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\about_overlay.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\advance_feature_bg.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\advance_feature_bg.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\advance_feature_img.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\advance_feature_img.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_1.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_1.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\animate_icon\\icon_1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_2.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_2.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\animate_icon\\icon_2.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_3.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_3.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\animate_icon\\icon_3.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_4.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_4.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\animate_icon\\icon_4.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_5.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_5.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\animate_icon\\icon_5.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_7.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_7.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\animate_icon\\icon_7.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_8.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_8.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\animate_icon\\icon_8.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_9.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\animate_icon\\icon_9.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\animate_icon\\icon_9.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\author\\author_1.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\author\\author_1.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\author\\author_1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\author\\author_2.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\author\\author_2.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\author\\author_2.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\author\\author_3.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\author\\author_3.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\author\\author_3.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\banner_bg.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\banner_bg.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\banner_bg.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\banner_img.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\banner_img.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\banner_img.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\author.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\author.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\blog_1.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\blog_1.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\blog_2.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\blog_2.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\blog_3.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\blog_3.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\blog_4.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\blog_4.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\learn_about_bg.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\learn_about_bg.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\single_blog_1.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\single_blog_1.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\single_blog_2.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\single_blog_2.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\single_blog_3.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\single_blog_3.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\single_blog_4.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\single_blog_4.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\single_blog_5.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\single_blog_5.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\blog\\slide_thumb_1.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\blog\\slide_thumb_1.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\breadcrumb.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\breadcrumb.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\client\\client_1.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\client\\client_1.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\client\\client_1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\client\\client_2.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\client\\client_2.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\client\\client_2.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\comment\\comment_1.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\comment\\comment_1.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\comment\\comment_1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\comment\\comment_2.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\comment\\comment_2.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\comment\\comment_2.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\comment\\comment_3.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\comment\\comment_3.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\comment\\comment_3.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\cource\\cource_1.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\cource\\cource_1.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\cource\\cource_1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\cource\\cource_2.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\cource\\cource_2.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\cource\\cource_2.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\cource\\cource_3.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\cource\\cource_3.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\cource\\cource_3.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\a.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\a.jpg"
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\faviconn.png",
+      "PackagePath": "staticwebassets\\JobIn-Post\\img\\faviconn.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\a2.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\a2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\d.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\d.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\disabled-check.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\disabled-check.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\disabled-radio.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\disabled-radio.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\f1.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\f1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\f2.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\f2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\f3.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\f3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\f4.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\f4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\f5.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\f5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\f6.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\f6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\f7.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\f7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\f8.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\f8.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\g1.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\g1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\g2.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\g2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\g3.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\g3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\g4.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\g4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\g5.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\g5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\g6.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\g6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\g7.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\g7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\g8.jpg",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\g8.jpg"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\primary-check.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\primary-check.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\primary-radio.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\primary-radio.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\success-check.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\success-check.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\elements\\success-radio.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\elements\\success-radio.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\favicon.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\favicon.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item_1.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item_1.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item_2.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item_2.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item_3.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item_3.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item_4.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item_4.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item_5.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item_5.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item_6.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item_6.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item_7.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item_7.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item_71.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item_71.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\gallery_item_8.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\gallery_item_8.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\gallery\\service_bg_2.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\gallery\\service_bg_2.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\color_star.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\color_star.svg",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\icon\\color_star.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\left.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\left.svg",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\icon\\left.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\play.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\play.svg",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\icon\\play.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\quate.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\quate.svg",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\icon\\quate.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\right.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\right.svg",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\icon\\right.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\star.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\icon\\star.svg",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\icon\\star.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_1.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\ilan\\ilan1.png",
+      "PackagePath": "staticwebassets\\JobIn-Post\\img\\ilan\\ilan1.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\ilan\\ilan2.png",
+      "PackagePath": "staticwebassets\\JobIn-Post\\img\\ilan\\ilan2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\ilan\\ilan3.png",
+      "PackagePath": "staticwebassets\\JobIn-Post\\img\\ilan\\ilan3.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\ilan\\ilan4.png",
+      "PackagePath": "staticwebassets\\JobIn-Post\\img\\ilan\\ilan4.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\ilan\\ilan5.jpg",
+      "PackagePath": "staticwebassets\\JobIn-Post\\img\\ilan\\ilan5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_1.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\insta\\instagram_1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_2.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_2.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\insta\\instagram_2.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_3.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_3.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\insta\\instagram_3.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_4.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_4.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\insta\\instagram_4.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_5.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_5.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\insta\\instagram_5.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_6.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\insta\\instagram_6.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\insta\\instagram_6.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\learning_img.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\learning_img.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\learning_img_bg.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\learning_img_bg.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\logo.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\logo.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\next.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\next.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\next.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_1.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_1.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_10.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_10.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_10.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_2.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_2.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_2.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_3.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_3.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_3.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_4.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_4.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_4.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_5.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_5.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_5.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_6.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_6.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_6.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_7.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_7.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_7.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_8.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_8.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_8.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_9.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\post_9.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\post_9.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\preview.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\post\\preview.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\post\\preview.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\quote.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\quote.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\service_bg_2.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\service_bg_2.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\single_cource.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\single_cource.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\single_page_logo.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\single_page_logo.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\single_page_logo.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\single_project.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\single_project.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\special_cource_1.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\special_cource_1.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\special_cource_2.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\special_cource_2.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\special_cource_3.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\special_cource_3.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\team\\team_1.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\team\\team_1.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\team\\team_1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\team\\team_2.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\team\\team_2.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\team\\team_2.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\team\\team_3.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\team\\team_3.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\team\\team_3.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\team\\team_4.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\team\\team_4.png",
       "PackagePath": "staticwebassets\\JobIn-Post\\img\\team\\team_4.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\testimonial_img_1.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\testimonial_img_1.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\testimonial_img_2.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\testimonial_img_2.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\img\\testimonial_img_3.png",
-      "PackagePath": "staticwebassets\\JobIn-Post\\img\\testimonial_img_3.png"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\aos.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\aos.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\aos.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\contact.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\contact.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\contact.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\custom.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\custom.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\gmaps.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\gmaps.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\gmaps.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery-1.12.1.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery-1.12.1.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\jquery-1.12.1.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery-3.3.1.slim.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery-3.3.1.slim.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\jquery-3.3.1.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.ajaxchimp.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.ajaxchimp.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\jquery.ajaxchimp.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.counterup.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.easing.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.easing.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\jquery.easing.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.form.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.form.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\jquery.form.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.magnific-popup.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.magnific-popup.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\jquery.magnific-popup.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.nice-select.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.validate.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\mail-script.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\mail-script.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\mail-script.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\masonry.pkgd.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\masonry.pkgd.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\masonry.pkgd.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\masonry.pkgd.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\masonry.pkgd.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\masonry.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\owl.carousel.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\particles.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\particles.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\particles.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\popper.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\slick.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\slick.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\swiper.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\swiper.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\swiper.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\swiper_custom.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\swiper_custom.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\swiper_custom.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\waypoints.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\js\\waypoints.min.js",
       "PackagePath": "staticwebassets\\JobIn-Post\\js\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_about.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_about.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_about.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_banner.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_banner.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_banner.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_blog.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_blog.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_blog_part.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_blog_part.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_blog_part.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_breadcrumb.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_button.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_button.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_button.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_common.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_common.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_common.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_contact.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_contact.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_contact.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_copyright_part.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_copyright_part.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_copyright_part.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_cource_details.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_cource_details.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_cource_details.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_elements.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_elements.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_elements.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_extends.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_extends.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_extends.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_feature_part.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_feature_part.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_feature_part.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_footer.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_footer.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_gallery_part.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_gallery_part.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_gallery_part.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_learning.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_learning.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_learning.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_member_counter.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_member_counter.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_member_counter.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_menu.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_menu.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_menu.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_mixins.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_mixins.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_portfolio.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_portfolio.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_portfolio.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_project_details.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_project_details.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_project_details.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_review.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_review.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_review.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_single_blog.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_single_blog.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_single_blog.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_social_connect_part.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_social_connect_part.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_social_connect_part.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_special_cource.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_special_cource.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_special_cource.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_team.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_team.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_team.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_testimonial_part.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_testimonial_part.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_testimonial_part.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_variables.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\_variables.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\style.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\JobIn-Post\\sass\\style.scss",
       "PackagePath": "staticwebassets\\JobIn-Post\\sass\\style.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\js\\jobPostingIndex.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\js\\jobPostingIndex.js",
       "PackagePath": "staticwebassets\\js\\jobPostingIndex.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.browserslistrc",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.browserslistrc",
       "PackagePath": "staticwebassets\\sneat\\.browserslistrc"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.eslintignore",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.eslintignore",
       "PackagePath": "staticwebassets\\sneat\\.eslintignore"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.eslintrc.json",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.eslintrc.json",
       "PackagePath": "staticwebassets\\sneat\\.eslintrc.json"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.gitignore",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.gitignore",
       "PackagePath": "staticwebassets\\sneat\\.gitignore"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.prettierignore",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.prettierignore",
       "PackagePath": "staticwebassets\\sneat\\.prettierignore"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.prettierrc.json",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\.prettierrc.json",
       "PackagePath": "staticwebassets\\sneat\\.prettierrc.json"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\CHANGELOG.md",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\CHANGELOG.md",
       "PackagePath": "staticwebassets\\sneat\\CHANGELOG.md"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\LICENSE.md",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\LICENSE.md",
       "PackagePath": "staticwebassets\\sneat\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\README.md",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\README.md",
       "PackagePath": "staticwebassets\\sneat\\README.md"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\css\\demo.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\css\\demo.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\css\\demo.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\avatars\\1.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\avatars\\1.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\avatars\\1.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\avatars\\5.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\avatars\\5.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\avatars\\5.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\avatars\\6.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\avatars\\6.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\avatars\\6.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\avatars\\7.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\avatars\\7.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\avatars\\7.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\backgrounds\\18.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\backgrounds\\18.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\backgrounds\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\1.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\1.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\11.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\11.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\12.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\12.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\13.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\13.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\13.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\17.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\17.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\18.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\18.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\19.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\19.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\2.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\2.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\20.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\20.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\3.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\3.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\4.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\4.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\5.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\5.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\7.jpg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\elements\\7.jpg",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\favicon\\favicon.ico",
-      "PackagePath": "staticwebassets\\sneat\\assets\\img\\favicon\\favicon.ico"
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\favicon\\faviconn.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\favicon\\faviconn.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\asana.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\asana.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\asana.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\behance.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\behance.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\behance.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\dribbble.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\dribbble.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\dribbble.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\facebook.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\facebook.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\facebook.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\github.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\github.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\github.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\google.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\google.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\google.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\instagram.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\instagram.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\instagram.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\mailchimp.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\mailchimp.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\mailchimp.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\slack.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\slack.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\slack.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\twitter.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\twitter.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\twitter.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-primary.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\cc-primary.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-success.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-success.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\cc-success.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-warning.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\cc-warning.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\chart-success.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\chart-success.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\chart-success.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\chart.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\chart.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\chart.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\paypal.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\paypal.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\paypal.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\wallet-info.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\wallet-info.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\wallet.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\wallet.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\wallet.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\illustrations\\man-with-laptop-light.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\illustrations\\man-with-laptop-light.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\illustrations\\page-misc-error-light.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\illustrations\\page-misc-error-light.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\layouts\\layout-container-light.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\layouts\\layout-container-light.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\layouts\\layout-container-light.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\layouts\\layout-fluid-light.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\layouts\\layout-fluid-light.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\layouts\\layout-fluid-light.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\layouts\\layout-without-menu-light.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\layouts\\layout-without-menu-light.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\img\\layouts\\layout-without-navbar-light.png",
       "PackagePath": "staticwebassets\\sneat\\assets\\img\\layouts\\layout-without-navbar-light.png"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\config.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\config.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\js\\config.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\dashboards-analytics.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\dashboards-analytics.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\js\\dashboards-analytics.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\extended-ui-perfect-scrollbar.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\js\\extended-ui-perfect-scrollbar.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\form-basic-inputs.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\form-basic-inputs.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\js\\form-basic-inputs.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\main.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\pages-account-settings-account.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\pages-account-settings-account.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\js\\pages-account-settings-account.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\ui-modals.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\ui-modals.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-modals.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\ui-popover.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\ui-popover.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-popover.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\ui-toasts.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\js\\ui-toasts.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-toasts.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\core.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\core.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\core.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-account-settings.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-account-settings.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-auth.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-auth.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-auth.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-icons.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-icons.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-icons.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-misc.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-misc.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-misc.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\theme-default.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\css\\theme-default.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\theme-default.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\js\\bootstrap.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\js\\helpers.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\js\\helpers.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\helpers.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\js\\menu.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\js\\menu.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\menu.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight-github.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight-github.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\jquery\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\masonry\\masonry.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\masonry\\masonry.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\popper\\popper.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\popper\\popper.js",
       "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\popper\\popper.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\build-config.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\build-config.js",
       "PackagePath": "staticwebassets\\sneat\\build-config.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\documentation.html",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\documentation.html",
       "PackagePath": "staticwebassets\\sneat\\documentation.html"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\fonts\\boxicons.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\fonts\\boxicons.scss",
       "PackagePath": "staticwebassets\\sneat\\fonts\\boxicons.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\gulpfile.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\gulpfile.js",
       "PackagePath": "staticwebassets\\sneat\\gulpfile.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\auth-forgot-password-basic.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\auth-forgot-password-basic.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\auth-login-basic.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\auth-login-basic.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\auth-register-basic.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\auth-register-basic.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\cards-basic.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\cards-basic.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\extended-ui-perfect-scrollbar.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\extended-ui-perfect-scrollbar.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\extended-ui-text-divider.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\extended-ui-text-divider.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\form-layouts-horizontal.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\form-layouts-horizontal.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\form-layouts-vertical.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\form-layouts-vertical.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\forms-basic-inputs.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\forms-basic-inputs.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\forms-input-groups.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\forms-input-groups.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\icons-boxicons.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\icons-boxicons.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\index.html",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\index.html",
       "PackagePath": "staticwebassets\\sneat\\html\\index.html"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\layouts-blank.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\layouts-blank.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\layouts-container.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\layouts-container.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\layouts-fluid.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\layouts-fluid.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\layouts-without-menu.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\layouts-without-menu.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\layouts-without-navbar.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\layouts-without-navbar.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\pages-account-settings-account.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\pages-account-settings-account.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\pages-account-settings-connections.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\pages-account-settings-connections.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\pages-account-settings-notifications.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\pages-account-settings-notifications.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\pages-misc-error.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\pages-misc-error.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\pages-misc-under-maintenance.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\pages-misc-under-maintenance.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\tables-basic.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\tables-basic.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-accordion.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-accordion.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-alerts.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-alerts.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-badges.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-badges.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-buttons.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-buttons.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-carousel.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-carousel.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-collapse.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-collapse.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-dropdowns.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-dropdowns.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-footer.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-footer.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-list-groups.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-list-groups.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-modals.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-modals.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-navbar.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-navbar.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-offcanvas.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-offcanvas.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-pagination-breadcrumbs.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-pagination-breadcrumbs.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-progress.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-progress.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-spinners.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-spinners.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-tabs-pills.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-tabs-pills.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-toasts.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-toasts.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-tooltips-popovers.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-tooltips-popovers.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\html\\ui-typography.html",
-      "PackagePath": "staticwebassets\\sneat\\html\\ui-typography.html"
-    },
-    {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\index.html",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\index.html",
       "PackagePath": "staticwebassets\\sneat\\index.html"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\js\\bootstrap.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\sneat\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\js\\helpers.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\js\\helpers.js",
       "PackagePath": "staticwebassets\\sneat\\js\\helpers.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\js\\menu.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\js\\menu.js",
       "PackagePath": "staticwebassets\\sneat\\js\\menu.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\apex-charts\\apex-charts.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\apex-charts\\apex-charts.scss",
       "PackagePath": "staticwebassets\\sneat\\libs\\apex-charts\\apex-charts.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\apex-charts\\apexcharts.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\apex-charts\\apexcharts.js",
       "PackagePath": "staticwebassets\\sneat\\libs\\apex-charts\\apexcharts.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\highlight\\highlight-github.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\highlight\\highlight-github.scss",
       "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight-github.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\highlight\\highlight.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\highlight\\highlight.js",
       "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\highlight\\highlight.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\highlight\\highlight.scss",
       "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\jquery\\jquery.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\sneat\\libs\\jquery\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\masonry\\masonry.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\masonry\\masonry.js",
       "PackagePath": "staticwebassets\\sneat\\libs\\masonry\\masonry.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
       "PackagePath": "staticwebassets\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
       "PackagePath": "staticwebassets\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\popper\\popper.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\libs\\popper\\popper.js",
       "PackagePath": "staticwebassets\\sneat\\libs\\popper\\popper.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\package-lock.json",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\package-lock.json",
       "PackagePath": "staticwebassets\\sneat\\package-lock.json"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\package.json",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\package.json",
       "PackagePath": "staticwebassets\\sneat\\package.json"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_accordion.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_accordion.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_alert.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_alert.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_badge.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_badge.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_button-group.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_button-group.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_buttons.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_buttons.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_card.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_card.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_carousel.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_carousel.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_close.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_close.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_dropdown.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_forms.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_forms.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_functions.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_functions.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_include.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_include.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_include.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_list-group.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_list-group.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_mixins.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_mixins.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_modal.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_modal.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_nav.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_nav.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_navbar.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_navbar.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_pagination.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_pagination.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_popover.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_popover.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_progress.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_progress.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_reboot.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_reboot.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_root.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_root.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_spinners.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_spinners.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tables.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tables.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_toasts.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_toasts.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tooltip.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_type.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_type.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_variables.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_variables.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_bootstrap.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_colors.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_colors.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_colors.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_app-brand.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_app-brand.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_app-brand.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_avatar.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_avatar.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_avatar.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_base.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_base.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_base.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_common.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_common.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_common.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_footer.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_footer.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_include.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_include.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_include.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_layout.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_layout.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_layout.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_menu.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_menu.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_menu.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_mixins.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_mixins.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_text-divider.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_text-divider.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_text-divider.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_variables.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\_variables.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_app-brand.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_app-brand.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_app-brand.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_avatar.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_avatar.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_avatar.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_footer.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_footer.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_menu.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_menu.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_menu.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_misc.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_misc.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_navbar.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_navbar.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_text-divider.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_text-divider.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_text-divider.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_bootstrap-extended.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_bootstrap-extended.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_components.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_components.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_components.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_libs.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_libs.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_libs.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_pages.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_pages.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_pages.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_support.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_support.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_support.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_theme\\_common.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_theme\\_common.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_theme\\_common.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_theme\\_theme.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\_theme\\_theme.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\_theme\\_theme.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\core.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\core.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\core.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\pages\\page-account-settings.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\pages\\page-account-settings.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-account-settings.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\pages\\page-auth.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\pages\\page-auth.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-auth.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\pages\\page-icons.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\pages\\page-icons.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-icons.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\pages\\page-misc.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\pages\\page-misc.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-misc.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\theme-default.scss",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\scss\\theme-default.scss",
       "PackagePath": "staticwebassets\\sneat\\scss\\theme-default.scss"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\tasks\\build.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\tasks\\build.js",
       "PackagePath": "staticwebassets\\sneat\\tasks\\build.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\tasks\\prod.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\tasks\\prod.js",
       "PackagePath": "staticwebassets\\sneat\\tasks\\prod.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\webpack.config.js",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\webpack.config.js",
       "PackagePath": "staticwebassets\\sneat\\webpack.config.js"
     },
     {
-      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn\\JobIn.Web\\wwwroot\\sneat\\yarn.lock",
+      "Id": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\wwwroot\\sneat\\yarn.lock",
       "PackagePath": "staticwebassets\\sneat\\yarn.lock"
     },
     {

@@ -1,4 +1,5 @@
 ﻿using JobIn.Core.Entities;
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -18,7 +19,7 @@ namespace JobIn.Entity.Entities
 
         public string? CreatedBy { get; set; } 
 
-        public DateTime CreatedDate { get; set; } = DateTime.Now;
+        public string CreatedDate { get; set; } 
 
 
         public Guid? CategoryId { get; set; }
@@ -27,9 +28,13 @@ namespace JobIn.Entity.Entities
         public Guid? ImageId { get; set; }
         public Image? Image { get; set; }    
 
-                               
+        public string? Imagge {  get; set; }
 
-        public string? Deadline { get; set; }
+        
+
+        public string? Advert {  get; set; }
+        public string Deadline { get; set; }
+        public string JobDeadline { get; set; }
 
         public Guid UserId { get; set; }
         public AppUser User { get; set; }

@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace JobIn.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240515200024_Init")]
-    partial class Init
+    [Migration("20240519232012_Init4")]
+    partial class Init4
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -56,21 +56,21 @@ namespace JobIn.Data.Migrations
                         new
                         {
                             Id = new Guid("e9e89340-b3fe-441d-97ac-bbb5351f4252"),
-                            ConcurrencyStamp = "b1b539e5-6e13-457b-82eb-0b9a68bef5f9",
+                            ConcurrencyStamp = "d2404cd3-2b66-459c-8b6b-e6c4dce4505d",
                             Name = "SuperAdmin",
                             NormalizedName = "SuperAdmin"
                         },
                         new
                         {
                             Id = new Guid("348a28d8-f597-4e02-8304-cd0308af29b2"),
-                            ConcurrencyStamp = "2f450baf-d099-48aa-9013-6abba664f9e5",
+                            ConcurrencyStamp = "cd1964a2-ce09-46ab-a4ce-9d20cc7014c8",
                             Name = "Admin",
                             NormalizedName = "Admin"
                         },
                         new
                         {
                             Id = new Guid("4b66714c-4bae-4695-be71-c612af8b84b9"),
-                            ConcurrencyStamp = "3c8fba30-63ed-439f-8a26-5ebb7918e785",
+                            ConcurrencyStamp = "b0eb5da1-0beb-4629-a455-94d332ab9117",
                             Name = "User",
                             NormalizedName = "User"
                         });
@@ -183,7 +183,7 @@ namespace JobIn.Data.Migrations
                         {
                             Id = new Guid("cb94223b-ccb8-4f2f-93d7-0df96a7f065c"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "54933304-f0b3-43f4-836b-bea5a1e9b77a",
+                            ConcurrencyStamp = "828b89e2-140d-4292-8c45-2aa8a50fdde9",
                             Email = "superadmin@gmail.com",
                             EmailConfirmed = true,
                             FirstName = "Hakan",
@@ -192,10 +192,10 @@ namespace JobIn.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "SUPERADMIN@GMAIL.COM",
                             NormalizedUserName = "SUPERADMIN@GMAIL.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEPvEcepCexRF4uKoDxCbOtonInsCLuwQHpCm5n6TiRCU2TEqBJ57xW1nis1e9ZwZFQ==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEPQROcxTgAEN2NyX2VpNiBhBut4q5LN9ibU5N+0L4LULjtWwW3xWMkgiTatS147TQA==",
                             PhoneNumber = "+905439999999",
                             PhoneNumberConfirmed = true,
-                            SecurityStamp = "80b47efb-9a5b-4701-8c02-ca3c3ee67194",
+                            SecurityStamp = "a2b0a747-d8c9-4300-84ef-6de38fd1e41f",
                             TwoFactorEnabled = false,
                             UserName = "superadmin@gmail.com"
                         },
@@ -203,7 +203,7 @@ namespace JobIn.Data.Migrations
                         {
                             Id = new Guid("3aa42229-1c0f-4630-8c1a-db879ecd0427"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "6d6dde17-f50a-4fb1-a136-526a8b977625",
+                            ConcurrencyStamp = "486ad370-7f91-48d6-a194-e8aab476c2a0",
                             Email = "admin@gmail.com",
                             EmailConfirmed = false,
                             FirstName = "Admin",
@@ -212,10 +212,10 @@ namespace JobIn.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "ADMIN@GMAIL.COM",
                             NormalizedUserName = "ADMIN@GMAIL.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEF8sVAcCQi6LG/vb54SQLDoRNsR4jgv6Tng7PsYt2xjzSTBYiQtkDDZdNOIE84BdfQ==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEBqjkyJ1548noSvfWKJ3XwYQWhbfh3u3lwiIbyGc/BDYx/UgB9jAX5nUIxhTO60fJA==",
                             PhoneNumber = "+905439999988",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "a7c9999a-1699-459a-818d-0e0ff5cd9641",
+                            SecurityStamp = "9f6ae943-7dc6-4b4c-b58b-c57633f69809",
                             TwoFactorEnabled = false,
                             UserName = "admin@gmail.com"
                         });
@@ -320,6 +320,9 @@ namespace JobIn.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -332,12 +335,14 @@ namespace JobIn.Data.Migrations
                         new
                         {
                             Id = new Guid("6a010829-35ba-4c29-ace0-bcea7718672f"),
-                            Name = "İş İlanları"
+                            IsDeleted = false,
+                            Name = "İş İlanı"
                         },
                         new
                         {
                             Id = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
-                            Name = "İş İlanları"
+                            IsDeleted = false,
+                            Name = "Staj İlanı"
                         });
                 });
 
@@ -348,12 +353,13 @@ namespace JobIn.Data.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("FileName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("FileType")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
 
                     b.HasKey("Id");
 
@@ -364,13 +370,15 @@ namespace JobIn.Data.Migrations
                         {
                             Id = new Guid("6a010829-35ba-4c29-ace0-bcea7718672f"),
                             FileName = "images/testimage",
-                            FileType = "jpg"
+                            FileType = "jpg",
+                            IsDeleted = false
                         },
                         new
                         {
                             Id = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
                             FileName = "images/testimage",
-                            FileType = "jpg"
+                            FileType = "jpg",
+                            IsDeleted = false
                         });
                 });
 
@@ -380,15 +388,18 @@ namespace JobIn.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid>("CategoryId")
+                    b.Property<string>("Advert")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("CategoryId")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("CreatedBy")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("CreatedDate")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Deadline")
                         .IsRequired()
@@ -397,19 +408,23 @@ namespace JobIn.Data.Migrations
                     b.Property<Guid?>("ImageId")
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<string>("Imagge")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
 
-                    b.Property<string>("JobDescription")
+                    b.Property<string>("JobDeadline")
                         .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("JobDescription")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("JobLocation")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("JobType")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Title")
@@ -432,32 +447,110 @@ namespace JobIn.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("f52507bd-fd8c-46c3-9468-f65556eb6467"),
-                            CategoryId = new Guid("6a010829-35ba-4c29-ace0-bcea7718672f"),
-                            CreatedBy = "Aselsa",
-                            CreatedDate = new DateTime(2024, 5, 15, 23, 0, 23, 233, DateTimeKind.Local).AddTicks(2996),
-                            Deadline = "2024 Mart",
-                            ImageId = new Guid("6a010829-35ba-4c29-ace0-bcea7718672f"),
+                            Id = new Guid("43d0bcac-2192-4caa-b5e8-4e1ace53250d"),
+                            Advert = "Çanakkale İli Üniversite Öğrencilerine Yönelik Siber Güvenlik Atölyesi 2024",
+                            CategoryId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
+                            CreatedBy = "Btk Akademi",
+                            CreatedDate = "24-05-2024",
+                            Deadline = "16-04-2024",
+                            ImageId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
+                            Imagge = "/JobIn-Post/img/ilan/ilan3.png",
                             IsDeleted = false,
+                            JobDeadline = "24-05-2024",
+                            JobDescription = "C#, .NetCore, Mvc tercihen React...",
+                            JobLocation = "Çanakkale",
+                            JobType = "Yüzyüze",
+                            Title = "Siber Güvenlik Atolyesi",
+                            UserId = new Guid("3aa42229-1c0f-4630-8c1a-db879ecd0427")
+                        },
+                        new
+                        {
+                            Id = new Guid("515497dc-9583-4acd-bb8e-980b4605b93a"),
+                            Advert = "Geleceğini Şekillendir",
+                            CategoryId = new Guid("6a010829-35ba-4c29-ace0-bcea7718672f"),
+                            CreatedBy = "Cumhurbaşkanlığı Finans Ofisi",
+                            CreatedDate = "19-04-2024",
+                            Deadline = "02-04-2024",
+                            ImageId = new Guid("6a010829-35ba-4c29-ace0-bcea7718672f"),
+                            Imagge = "/JobIn-Post/img/ilan/ilan1.png",
+                            IsDeleted = false,
+                            JobDeadline = "19-04-2024",
                             JobDescription = "Kullanıcı arayüzü tasarımı ve angular kullanarak.....",
                             JobLocation = "Ankara",
-                            JobType = "Remote",
-                            Title = "Asels Part-Time iş ilanı",
+                            JobType = "Yüz yüze",
+                            Title = "Yarı zamanlı/ stajyer",
                             UserId = new Guid("cb94223b-ccb8-4f2f-93d7-0df96a7f065c")
                         },
                         new
                         {
-                            Id = new Guid("e2eac459-f1c3-49be-9df6-db6c7bb057e2"),
+                            Id = new Guid("752be834-37fa-4ee3-8e21-62949a69119c"),
+                            Advert = "Fark’lı ailemizde yer almak istiyorsan hemen başvur!",
                             CategoryId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
-                            CreatedBy = "Sabancı",
-                            CreatedDate = new DateTime(2024, 5, 15, 23, 0, 23, 233, DateTimeKind.Local).AddTicks(3007),
-                            Deadline = "2024 Mart",
+                            CreatedBy = "Farplas",
+                            CreatedDate = "13-05-2024",
+                            Deadline = "13-06-2024",
                             ImageId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
+                            Imagge = "/JobIn-Post/img/ilan/ilan4.png",
                             IsDeleted = false,
+                            JobDeadline = "23 Haziran",
                             JobDescription = "C#, .NetCore, Mvc tercihen React...",
-                            JobLocation = "Ankara",
-                            JobType = "Hibrit",
-                            Title = "Sabancı Full-Stack Developer",
+                            JobLocation = "İstanbul",
+                            JobType = "Yüzyüze",
+                            Title = "FARK'a Ortak Ol! Uzun Dönem Staj Programı 2024",
+                            UserId = new Guid("3aa42229-1c0f-4630-8c1a-db879ecd0427")
+                        },
+                        new
+                        {
+                            Id = new Guid("a857b482-4e4d-4095-b8de-d830197f13c3"),
+                            Advert = "Medipol Üniversitesi Teknoloji Transfer Ofisi-Stajyer İlanı",
+                            CategoryId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
+                            CreatedBy = "İstanbul Medipol Üniversitesi",
+                            CreatedDate = "",
+                            Deadline = "",
+                            ImageId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
+                            Imagge = "/JobIn-Post/img/ilan/ilan2.png",
+                            IsDeleted = false,
+                            JobDeadline = "",
+                            JobDescription = "C#, .NetCore, Mvc tercihen React...",
+                            JobLocation = "İstanbul",
+                            JobType = "Yüzyüze",
+                            Title = "Teknoloji Transfer Ofisi-Stajyer İlanı",
+                            UserId = new Guid("3aa42229-1c0f-4630-8c1a-db879ecd0427")
+                        },
+                        new
+                        {
+                            Id = new Guid("fbdc64fd-3daf-4c6b-ac9b-5881da556c06"),
+                            Advert = "Fark’lı ailemizde yer almak istiyorsan hemen başvur!",
+                            CategoryId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
+                            CreatedBy = "Farplas",
+                            CreatedDate = "",
+                            Deadline = "",
+                            ImageId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
+                            Imagge = "/JobIn-Post/img/ilan/ilan4.png",
+                            IsDeleted = false,
+                            JobDeadline = "",
+                            JobDescription = "C#, .NetCore, Mvc tercihen React...",
+                            JobLocation = "İstanbul",
+                            JobType = "Yüzyüze",
+                            Title = "FARK'a Ortak Ol! Uzun Dönem Staj Programı 2024",
+                            UserId = new Guid("3aa42229-1c0f-4630-8c1a-db879ecd0427")
+                        },
+                        new
+                        {
+                            Id = new Guid("ad315c50-c069-437d-8e3a-52d66406ccf8"),
+                            Advert = "Sky Experience",
+                            CategoryId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
+                            CreatedBy = "Türk Havacılık ve Uzay Sanayii",
+                            CreatedDate = "",
+                            Deadline = "",
+                            ImageId = new Guid("b4224b04-73b7-4077-af1e-81e16a37de65"),
+                            Imagge = "/JobIn-Post/img/ilan/ilan5.jpg",
+                            IsDeleted = false,
+                            JobDeadline = "",
+                            JobDescription = "C#, .NetCore, Mvc tercihen React...",
+                            JobLocation = "İstanbul",
+                            JobType = "Yüzyüze",
+                            Title = "SKY Global Türk Programı",
                             UserId = new Guid("3aa42229-1c0f-4630-8c1a-db879ecd0427")
                         });
                 });
@@ -528,9 +621,7 @@ namespace JobIn.Data.Migrations
                 {
                     b.HasOne("JobIn.Entity.Entities.Category", "Category")
                         .WithMany("Postings")
-                        .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CategoryId");
 
                     b.HasOne("JobIn.Entity.Entities.Image", "Image")
                         .WithMany("Postings")

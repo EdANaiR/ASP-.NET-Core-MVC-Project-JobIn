@@ -1,3 +1,4 @@
+using JobIn.Entity.Entities;
 using JobIn.Service.Services.Abstractions;
 using JobIn.Web.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -32,5 +33,6 @@ namespace JobIn.Web.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
     }
 }
