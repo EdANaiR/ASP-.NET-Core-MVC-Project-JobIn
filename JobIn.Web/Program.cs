@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+Ôªøusing Microsoft.EntityFrameworkCore;
 using JobIn.Data.Context;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 using JobIn.Data.Extensions;
@@ -8,13 +8,44 @@ using JobIn.Entity.Entities;
 using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Connection string kontrol√º
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+    ?? "Server=LAPTOP-B20RK80B\\SQLEXPRESS04;Database=JobInDb;Trusted_Connection=True;Integrated Security=True;TrustServerCertificate=True;Connection Timeout=60;";
+
+Console.WriteLine($"Connection String: {connectionString}");
+
+if (string.IsNullOrEmpty(connectionString))
+{
+    Console.WriteLine("‚ùå Connection string bulunamadƒ±!");
+    // T√ºm konfig√ºrasyonu yazdƒ±r
+    foreach (var kv in builder.Configuration.AsEnumerable())
+    {
+        Console.WriteLine($"{kv.Key} = {kv.Value}");
+    }
+}
+else
+{
+    Console.WriteLine("‚úÖ Connection string ba≈üarƒ±yla y√ºklendi");
+}
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+{
+    options.UseSqlServer(connectionString, sqlOptions =>
+    {
+        sqlOptions.EnableRetryOnFailure();
+    });
+});
+
+// üîπ Katman servislerini y√ºkle
 builder.Services.LoadDataLayerExtensions(builder.Configuration);
 builder.Services.LoadServiceLayerExtensions();
 builder.Services.AddSession();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
-
+// üîπ Identity ayarlarƒ±
 builder.Services.AddIdentity<AppUser, AppRole>(opt =>
 {
     opt.Password.RequireNonAlphanumeric = false;
@@ -25,53 +56,54 @@ builder.Services.AddIdentity<AppUser, AppRole>(opt =>
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
 
+// üîπ Cookie ayarlarƒ±
 builder.Services.ConfigureApplicationCookie(config =>
 {
-    config.LoginPath = new PathString("/Admin/Auth/Login");   //Kullan˝c˝ login olmadan ba˛ka sayfaya t˝klarsa otomatil login sayfas˝na yˆnlendirir.
-    config.LogoutPath = new PathString("/Admin/Auth/Logout"); //Kullan˝c˝ oturmu sonland˝rmak istediinde bu sayfaya yˆnlendiri.
+    config.LoginPath = new PathString("/Admin/Auth/Login");
+    config.LogoutPath = new PathString("/Admin/Auth/Logout");
     config.Cookie = new CookieBuilder
     {
         Name = "JobIn",
         HttpOnly = true,
         SameSite = SameSiteMode.Strict,
-        SecurePolicy = CookieSecurePolicy.SameAsRequest //Canl˝da Always seÁilmeli. http,https ikisi birlikte
+        SecurePolicy = CookieSecurePolicy.SameAsRequest
     };
     config.SlidingExpiration = true;
-    config.ExpireTimeSpan = TimeSpan.FromDays(30);  //Kullan˝c˝ sisteme giri˛ yapt˝ktan sonra oturumu 30 g¸n boyunca sistemde aÁ˝k olsun
-    config.AccessDeniedPath = new PathString("/Admin/Auth/AccessDenied");  //yetkisiz eri˛imlerde uyar˝ sayfaya yˆnlendirir
+    config.ExpireTimeSpan = TimeSpan.FromDays(30);
+    config.AccessDeniedPath = new PathString("/Admin/Auth/AccessDenied");
 });
- 
+
 var app = builder.Build();
 
-
-
-
-
-
 // Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment())
+{
+    // Development modunda detaylƒ± hata sayfasƒ± g√∂ster
+    app.UseDeveloperExceptionPage();
+}
+else
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
+
+// Static files ayarlarƒ±
 app.UseStaticFiles();
 app.UseSession();
 app.UseRouting();
-
 app.UseAuthentication();
-app.UseAuthorization();      //Authentication altta kalmas˝ gerek.
+app.UseAuthorization();
 
 app.UseEndpoints(endpoints =>
 {
-   endpoints.MapAreaControllerRoute(
-   name: "Admin",
-   areaName:"Admin",
-   pattern: "Admin/{controller=Home}/{action=Index}/{id?}"
+    endpoints.MapAreaControllerRoute(
+        name: "Admin",
+        areaName: "Admin",
+        pattern: "Admin/{controller=Home}/{action=Index}/{id?}"
     );
-   endpoints.MapDefaultControllerRoute();
+    endpoints.MapDefaultControllerRoute();
 });
 
 app.Run();

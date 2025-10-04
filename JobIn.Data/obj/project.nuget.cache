@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NY/NaH2VJ+BqI4gEGyhYnhc+xyD57rWeKskZI9W1pdlu0YSpKaI21jLTtulu1wYiof/oiuGVE/0CiUN1Mwuugg==",
+  "dgSpecHash": "ybKvtZzmC0o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Data\\JobIn.Data.csproj",
+  "projectFilePath": "C:\\JobIn\\JobIn.Data\\JobIn.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

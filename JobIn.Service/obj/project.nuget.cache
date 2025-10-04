@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fxj4oNNrrjbOzYWH9qltavS8vj4Z3ehDosLXemQ0p1vsh/oDL3bqxXxq7ZlYdKrAKfzKNTFi+mB+sfyKf1APAA==",
+  "dgSpecHash": "F1tv9ZdeRtg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Service\\JobIn.Service.csproj",
+  "projectFilePath": "C:\\JobIn\\JobIn.Service\\JobIn.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

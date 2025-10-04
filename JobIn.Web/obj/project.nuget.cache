@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0lsPDgBRN44w9OQwL7vWnxZXtZMhOWL24Y4fqQ+ieP08pFwUoGtNfr1Jm7kO2GpJmf/Vh+b0DSavycx2zwirGg==",
+  "dgSpecHash": "mExhN/oxiwA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\JobIn.Web.csproj",
+  "projectFilePath": "C:\\JobIn\\JobIn.Web\\JobIn.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

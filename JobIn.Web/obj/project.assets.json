@@ -8803,47 +8803,43 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\JobIn.Web.csproj",
+      "projectUniqueName": "C:\\JobIn\\JobIn.Web\\JobIn.Web.csproj",
       "projectName": "JobIn.Web",
-      "projectPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\JobIn.Web.csproj",
+      "projectPath": "C:\\JobIn\\JobIn.Web\\JobIn.Web.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Web\\obj\\",
+      "outputPath": "C:\\JobIn\\JobIn.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Core\\JobIn.Core.csproj": {
-              "projectPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Core\\JobIn.Core.csproj"
+            "C:\\JobIn\\JobIn.Core\\JobIn.Core.csproj": {
+              "projectPath": "C:\\JobIn\\JobIn.Core\\JobIn.Core.csproj"
             },
-            "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Data\\JobIn.Data.csproj": {
-              "projectPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Data\\JobIn.Data.csproj"
+            "C:\\JobIn\\JobIn.Data\\JobIn.Data.csproj": {
+              "projectPath": "C:\\JobIn\\JobIn.Data\\JobIn.Data.csproj"
             },
-            "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Entity\\JobIn.Entity.csproj": {
-              "projectPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Entity\\JobIn.Entity.csproj"
+            "C:\\JobIn\\JobIn.Entity\\JobIn.Entity.csproj": {
+              "projectPath": "C:\\JobIn\\JobIn.Entity\\JobIn.Entity.csproj"
             },
-            "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Service\\JobIn.Service.csproj": {
-              "projectPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\JobIn\\JobIn.Service\\JobIn.Service.csproj"
+            "C:\\JobIn\\JobIn.Service\\JobIn.Service.csproj": {
+              "projectPath": "C:\\JobIn\\JobIn.Service\\JobIn.Service.csproj"
             }
           }
         }
@@ -8903,7 +8899,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
